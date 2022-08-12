@@ -10,5 +10,3 @@ You can click the Preview link to take a look at your changes.
 - try not to deviate, I try to look back on myself.
 - Rather than just Googling, I try to find and understand the standard documentation or official documentation first.
 - Design is the most important thing, and strive to make good designs.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paran3&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
