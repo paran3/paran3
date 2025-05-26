@@ -5,6 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 #### [Resume - English](https://paran3.notion.site/I-am-Taemin-Kim-a-developer-who-finds-answers-in-places-where-there-are-no-answers-1f86cd77fe0e4ffebaabd1931df7ce0d)
 #### [Resume - Korean](https://paran3.notion.site/1526ae9ffae14b7d9ca8730abbf09f02?pvs=4)
+#### [Tech Blog](https://paran3.notion.site/Detail-Please-click-me-1a3e4ced039148c58bfd24fd8a91cb49)
 
 #### HI! I am Taemin Kim.
 - started programming because I was fascinated by the logical thinking of computers.
